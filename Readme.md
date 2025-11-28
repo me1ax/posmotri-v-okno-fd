@@ -1,1 +1,0 @@
-https://github.com/me1ax/posmotri-v-okno-fd
